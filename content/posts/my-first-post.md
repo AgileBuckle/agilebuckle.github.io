@@ -3,8 +3,6 @@ date = '2024-10-26T08:03:23-04:00'
 draft = false
 title = 'My First Post'
 +++
-## Intro
+## A New Beginning
 
-This is **bold** and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+This is my new site created with PaperMod and that will probably never get posted on. See my other blog for actual content.
